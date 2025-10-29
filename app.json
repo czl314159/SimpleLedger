@@ -1,4 +1,25 @@
 {
-  "name": "MyLedgerApp",
-  "displayName": "MyLedgerApp"
+  "expo": {
+    "name": "简约记账",
+    "slug": "minimal-ledger",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.example.minimalledger",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
 }
