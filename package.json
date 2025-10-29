@@ -1,6 +1,6 @@
 {
-  "name": "my-ledger-app",
-  "version": "0.0.1",
+  "name": "simple-ledger",
+  "version": "0.0.1-alpha",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
